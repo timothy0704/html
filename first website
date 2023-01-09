@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+
+    <script src="script.js"></script>
+  
+  <h1>Conversational</h1>
+
+  <h2>What is the difference between constants and variables used in programming?</h2>
+
+  <p> 
+    Constants are usually written as numbers. <br>Variables are specially written with letters or symbols. <br>A constant usually represents a known value in an equation, expression, or programming line. <br>A variable, on the other hand, represents an unknown value.
+  </p>
+
+  <h3> How is Console.ReadLine() used in C# program?</h3>
+
+  <p>The C# readline method is mainly used to read the entire string until the user presses enter or finds a newline character.<br>
+    This method allows you to read each line of a standard data input stream. Also used to pause the console so the user can view the output.</p>
+
+  <h4>How is tracing technique used to understand program flow that can help you to correct logic and run-time errors in computer program?</h4>
+
+  <p>
+    it double checks and we can figure out what is wrong. 
+  </p>
+  
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
