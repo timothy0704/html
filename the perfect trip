@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Challenge: A picture-perfect trip</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+  <h1>The perfect trip</h1>
+
+  <h2><em><strong>Seoul</strong></em></h2>
+
+  <p>I would see scens like...</p>
+
+   <img src= "https://www.korea.net/upload/content/editImage/180327_lotte%201_in.jpg" width = 600 height = 300>
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Seoul_Cheonggyecheon_night.jpg" width = 500 height = 300>
+  
+  <p>And eat food like...</p>
+
+   <img src= "https://c.ndtvimg.com/2022-05/7efvlvl_korean-rice-cakes_625x300_13_May_22.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=675" width = 300 height = 200>
+
+  <img src = "https://www.seriouseats.com/thmb/WtcBGMWbdUcAIVe8zg4VCm2aqc4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2020__01__20200122-gimbap-vicky-wasik-24-f5ed1075f35846a29e0812ee053a1bf8.jpg" height = 200 width = 300>
+
+  
+  <p>And animals like...</p>
+   <img src= "http://res.heraldm.com/content/image/2021/10/04/20211004000422_0.jpg" height = 200 width - 300>
+
+  <img src = "https://img4.yna.co.kr/photo/yna/YH/2018/05/13/PYH2018051302860000500_P2.jpg" height = 200 width = 300>
+  <script src="script.js"></script>
+
+ <!--
+  This script places a badge on your repl's full-browser view back to your repl's cover
+  page. Try various colors for the theme: dark, light, red, orange, yellow, lime, green,
+  teal, blue, blurple, magenta, pink!
+  -->
+  <script src="https://replit.com/public/js/replit-badge.js" theme="blue" defer></script> 
+</body>
+
+</html>
